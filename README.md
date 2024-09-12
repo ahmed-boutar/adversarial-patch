@@ -7,4 +7,5 @@
 3. Click on Authorize with Github
 4. Click on OK when the window saying "Notebook not found" shows up
 5. From the dropdown-menu called Repository in the Github section, choose ahmed-boutar/adversarial-patch
-6. Run everything  
+6. Click on the notebook that shows up
+7. Run everything  
